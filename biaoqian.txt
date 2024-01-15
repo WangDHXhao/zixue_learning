@@ -1,0 +1,13 @@
+panel_highlight高亮镀铬饰条
+panel_not_highlight哑光镀铬饰条
+panel_not_Cr非镀铬饰条
+red_brake caliper红色刹车卡钳
+silver _brake caliper银色刹车卡钳
+hub_out_white_in_black 外白内黑的轮毂
+hub_out_black_in_white 外黑内白的轮毂
+Exercise kit运动套件
+skylight天窗
+black_film_highlight高亮黑膜
+black_film_not_highlight哑光黑膜
+infront_lidar前雷达
+back_lidar后雷达
